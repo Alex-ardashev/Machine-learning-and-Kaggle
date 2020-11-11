@@ -1,2 +1,2 @@
-# Pricing forecast using Catboost
+# Pricing prediction using Catboost
 Kaggle competition
