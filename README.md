@@ -1,2 +1,2 @@
-# Pricing forecast using LTSM, XGBoost and Catboost
+# Pricing prediction using Catboost
 Kaggle competition
