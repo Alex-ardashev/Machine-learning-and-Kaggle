@@ -1,2 +1,8 @@
 # Pricing prediction using Catboost
-Kaggle competition
+ *Kaggle competitions
+ *Feature engineering
+ *Hyperparam optimization
+ *Data preparation
+ *Competitions for fun
+ *Catboost:)
+
